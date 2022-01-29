@@ -4,10 +4,13 @@
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.4.0",
+    "@heroicons/react": "^1.0.5",
+    "@types/styled-components": "^5.1.15",
     "cra-template-typescript": "1.1.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "styled-components": "^5.3.3",
     "typescript": "^4.5.2"
   },
   "scripts": {
@@ -35,10 +38,10 @@
     ]
   },
   "devDependencies": {
-    "autoprefixer": "9",
-    "postcss": "7",
     "@types/react": "^17.0.35",
     "@types/react-dom": "^17.0.11",
+    "autoprefixer": "9",
+    "postcss": "7",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "web-vitals": "^2.1.2"
   }
